@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\ChequePorExtenso\bin\Debug\ChequePorExtenso.exe.config
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\ChequePorExtenso\bin\Debug\ChequePorExtenso.exe
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\ChequePorExtenso\bin\Debug\ChequePorExtenso.pdb
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\ChequePorExtenso\obj\Debug\ChequePorExtenso.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\ChequePorExtenso\obj\Debug\ChequePorExtenso.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\ChequePorExtenso\obj\Debug\ChequePorExtenso.exe
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\ChequePorExtenso\obj\Debug\ChequePorExtenso.pdb

@@ -1,0 +1,17 @@
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\TesteCheque.UnitTest.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\TesteCheque.UnitTest.pdb
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\ChequePorExtenso.exe
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\ChequePorExtenso.pdb
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\ChequePorExtenso.exe.config
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\obj\Debug\TesteCheque.UnitTest.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\obj\Debug\TesteCheque.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\obj\Debug\TesteCheque.UnitTest.csproj.CopyComplete
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\obj\Debug\TesteCheque.UnitTest.dll
+C:\Users\Cliente\Desktop\Academia do Programador\Cheque por Extenso\TesteCheque.UnitTest\obj\Debug\TesteCheque.UnitTest.pdb

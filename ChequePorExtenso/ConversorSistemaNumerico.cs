@@ -135,7 +135,6 @@ namespace ChequePorExtenso
                     return "mil " + ConverterCentenaDezenaUni(unidade, dezena, centena);//1125
                 }
             }
-
             else
             {
                 if (dezena == '0' && unidade == '0')
@@ -178,8 +177,8 @@ namespace ChequePorExtenso
             {
                 return ConverterCentenaDezenaUni(umilhar, dmilhar, cmilhar) + " mil " + ConverterCentenaDezenaUni(unidade, dezena, centena);
             }
-
         }
+
         public string ConverterUnidadeMilhão(char unidade, char dezena, char centena, char umilhar, char dmilhar, char cmilhar, char umilhao)
         {
             if (umilhao == '1')
@@ -248,7 +247,6 @@ namespace ChequePorExtenso
             {
                 return ConverterCentenaDezenaUni(ubilhao, dbilhao, cbilhao) + " bilhões de";
             }
-
                 return ConverterCentenaDezenaUni(ubilhao, dbilhao, cbilhao) + " bilhões " + ConverterCentenaMilhão(unidade, dezena, centena, umilhar, dmilhar, cmilhar, umilhao, dmilhao, cmilhao);
         }
     }

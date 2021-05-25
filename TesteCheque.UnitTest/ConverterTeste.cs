@@ -8,7 +8,7 @@ namespace TesteCheque.UnitTest
     public class ConverterTeste
     {
         [TestMethod]
-        public void Converter_UnidadeCentavoZero()
+        public void Converter_Nulo()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();      
@@ -76,7 +76,7 @@ namespace TesteCheque.UnitTest
             Assert.AreEqual("novecentos e noventa e nove reais e dezesseis centavos", resultado3);
         }
         [TestMethod]
-        public void Converter_uMilharReal()
+        public void Converter_UnidadeMilharReal()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();
@@ -92,7 +92,7 @@ namespace TesteCheque.UnitTest
       
         }
         [TestMethod]
-        public void Converter_DezenaDeMilharReal() //99.999
+        public void Converter_DezenaMilharReal() //99.999
         {
             //arrange - organiza
             ConversorBase conversor = new ConversorBase();
@@ -103,7 +103,7 @@ namespace TesteCheque.UnitTest
 
         }
         [TestMethod]
-        public void Converter_cMilharReal()
+        public void Converter_CentenaMilharReal()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();
@@ -111,13 +111,15 @@ namespace TesteCheque.UnitTest
            
             string resultado3 = conversor.Converter(999999.16);
             string resultado4 = conversor.Converter(61637.00);
+            string resultado5 = conversor.Converter(505505.00);
             //assert
-        
+
             Assert.AreEqual("novecentos e noventa e nove mil novecentos e noventa e nove reais e dezesseis centavos", resultado3);
             Assert.AreEqual("sessenta e um mil seiscentos e trinta e sete reais", resultado4);
+            Assert.AreEqual("quinhentos e cinco mil quinhentos e cinco reais", resultado5);
         }
         [TestMethod]
-        public void Converter_unidadeMilhaoReal()
+        public void Converter_UnidadeMilhaoReal()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();
@@ -131,7 +133,7 @@ namespace TesteCheque.UnitTest
             Assert.AreEqual("um milhão cento e quinze mil reais", resultado4);
         }
         [TestMethod]
-        public void Converter_dezenaMilhaoReal()
+        public void Converter_DezenaMilhaoReal()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();
@@ -140,12 +142,10 @@ namespace TesteCheque.UnitTest
             string resultado3 = conversor.Converter(12000000);
             
             //assert
-
-            Assert.AreEqual("doze milhões de reais", resultado3);
-           
+            Assert.AreEqual("doze milhões de reais", resultado3);        
         }
         [TestMethod]
-        public void Converter_centenaMilhaoReal()
+        public void Converter_CentenaMilhaoReal()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();
@@ -161,7 +161,7 @@ namespace TesteCheque.UnitTest
             Assert.AreEqual("quatrocentos e vinte e cinco milhões novecentos e sessenta e um mil seiscentos e trinta e sete reais", resultado5);
         }
         [TestMethod]
-        public void Converter_unidadebilhaoReal()
+        public void Converter_UnidadebilhaoReal()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();        
@@ -173,7 +173,7 @@ namespace TesteCheque.UnitTest
             Assert.AreEqual("oito bilhões quatrocentos e vinte e cinco milhões novecentos e sessenta e um mil seiscentos e trinta e sete reais", resultado4);
         }
         [TestMethod]
-        public void Converter_dezenaBilhaoReal()
+        public void Converter_DezenaBilhaoReal()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();
@@ -183,7 +183,7 @@ namespace TesteCheque.UnitTest
             Assert.AreEqual("doze bilhões de reais", resultado3);
         }
         [TestMethod]
-        public void Converter_centenaBilhaoReal()
+        public void Converter_CentenaBilhaoReal()
         {
             //arrange
             ConversorBase conversor = new ConversorBase();

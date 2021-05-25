@@ -11,7 +11,7 @@ namespace ChequePorExtenso
     {
         ConversorCentavos conversorCentavos;
         ConversorReal conversorReal;
-        public string Converter(double valorMonetario)
+        public string Converter(double valorMonetario) //0.10 0.1
         {
             conversorReal = new ConversorReal();
             conversorCentavos = new ConversorCentavos();
@@ -41,8 +41,6 @@ namespace ChequePorExtenso
             }
             
             return valorPorExtenso;
-        }
-             
-        
+        }                  
     }
 }
